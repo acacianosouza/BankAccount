@@ -1,0 +1,11 @@
+c:\git\pessoal\SuperDigital\Infrastructure\bin\Debug\netcoreapp2.1\Infrastructure.deps.json
+c:\git\pessoal\SuperDigital\Infrastructure\bin\Debug\netcoreapp2.1\Infrastructure.dll
+c:\git\pessoal\SuperDigital\Infrastructure\bin\Debug\netcoreapp2.1\Infrastructure.pdb
+c:\git\pessoal\SuperDigital\Infrastructure\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Abstractions.dll
+c:\git\pessoal\SuperDigital\Infrastructure\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Abstractions.xml
+c:\git\pessoal\SuperDigital\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.csproj.CoreCompileInputs.cache
+c:\git\pessoal\SuperDigital\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.AssemblyInfoInputs.cache
+c:\git\pessoal\SuperDigital\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.AssemblyInfo.cs
+c:\git\pessoal\SuperDigital\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.csproj.CopyComplete
+c:\git\pessoal\SuperDigital\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.dll
+c:\git\pessoal\SuperDigital\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.pdb

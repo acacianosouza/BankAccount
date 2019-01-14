@@ -1,0 +1,16 @@
+c:\git\pessoal\SuperDigital\Data\bin\Debug\netcoreapp2.1\Data.deps.json
+c:\git\pessoal\SuperDigital\Data\bin\Debug\netcoreapp2.1\Data.dll
+c:\git\pessoal\SuperDigital\Data\bin\Debug\netcoreapp2.1\Data.pdb
+c:\git\pessoal\SuperDigital\Data\bin\Debug\netcoreapp2.1\Domain.dll
+c:\git\pessoal\SuperDigital\Data\bin\Debug\netcoreapp2.1\Infrastructure.dll
+c:\git\pessoal\SuperDigital\Data\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Abstractions.dll
+c:\git\pessoal\SuperDigital\Data\bin\Debug\netcoreapp2.1\Domain.pdb
+c:\git\pessoal\SuperDigital\Data\bin\Debug\netcoreapp2.1\Infrastructure.pdb
+c:\git\pessoal\SuperDigital\Data\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Abstractions.xml
+c:\git\pessoal\SuperDigital\Data\obj\Debug\netcoreapp2.1\Data.csprojAssemblyReference.cache
+c:\git\pessoal\SuperDigital\Data\obj\Debug\netcoreapp2.1\Data.csproj.CoreCompileInputs.cache
+c:\git\pessoal\SuperDigital\Data\obj\Debug\netcoreapp2.1\Data.AssemblyInfoInputs.cache
+c:\git\pessoal\SuperDigital\Data\obj\Debug\netcoreapp2.1\Data.AssemblyInfo.cs
+c:\git\pessoal\SuperDigital\Data\obj\Debug\netcoreapp2.1\Data.csproj.CopyComplete
+c:\git\pessoal\SuperDigital\Data\obj\Debug\netcoreapp2.1\Data.dll
+c:\git\pessoal\SuperDigital\Data\obj\Debug\netcoreapp2.1\Data.pdb
